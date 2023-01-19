@@ -6,3 +6,4 @@
 - [x] Predict the Class of a Image
 - [x] Trained for Accuracy :- 97%
 - [x] Predict for the Blurriest Images
+## You Have to change the Path of the dataset in Cell:2 for it to work on youre System
